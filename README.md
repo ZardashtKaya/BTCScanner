@@ -19,7 +19,6 @@ A Swift-based Bitcoin wallet scanner that generates random wallets and checks th
 
 - macOS 12.0 or later
 - Swift 5.5 or later
-- Xcode 13.0 or later
 - Required Swift packages:
   - CryptoKit
   - RIPEMD160

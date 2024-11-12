@@ -1,0 +1,4 @@
+.DS_Store
+.swiftpm
+empty_wallets.txt
+empty_wallets_with_pkey.txt
